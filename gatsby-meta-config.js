@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `GARTEN`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['상대를 존중하는', '도전을 두려워하지 않는', '더 나은것을 고민하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
